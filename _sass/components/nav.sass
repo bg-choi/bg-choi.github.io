@@ -1,0 +1,54 @@
+.nav
+    position: relative
+    border-bottom: 1px solid $epsilon
+
+    > .nav-menu
+        margin: 5px
+
+        > .site-logo
+            float: left
+            width: 40px
+            height: 40px
+            margin: 5px 5px 5px
+            padding: 5px 5px 5px
+
+        > .list
+            align: center
+            height: 40px
+            margin: 5px 60px 5px
+            padding: 10px 15px 10px
+            list-style-type: none
+
+            > .item
+                display: inline-block
+        
+            > .item > .link
+                text-decoration: none
+                display: inline-block
+                font-size: 2rem
+                margin: 0px 15px
+                padding: 0px 0px 0px
+                color: $alpha
+
+                &:hover
+                    color: $delta
+                    border-bottom: 3px solid $delta
+
+
+.nav-home
+    margin-top: 40px
+    text-align: center
+
+    > .list
+        padding: 0
+
+        > .item > .link
+            font-size: 2rem
+            padding: 7px 15px
+            margin: 0
+            border-radius: 4%
+            transition: all .4s ease-in-out
+            color: $alpha
+
+            &:hover
+                color: $delta
