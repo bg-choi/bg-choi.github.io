@@ -27,8 +27,9 @@ please leave comments. Thanks.</p>
 <br>
 <h2>Careers</h2>
 <ul class="careers">
-	<li>2013.03 ~ 2020.02: B.S. at SKK Univ.</li>
+	<li>2020.03 ~ : M.S. at SKK Univ.</li>
 	<li>2020.01 ~ : NLP lab. at SKK Univ.</li>
+    <li>2013.03 ~ 2020.02: B.S. at SKK Univ.</li>
 </ul>
 <br>
 <h2>Papers</h2>
