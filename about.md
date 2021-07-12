@@ -8,7 +8,7 @@ layout: page
 
 <p align="center">안녕하세요.<br>
 저는 컴퓨터 공학을 전공하고 자연어 처리에 관심있는 학생입니다.<br>
-이 블로그는 테크니컬 블로그입니다.<br>
+본 블로그는 개인 연구를 위한 테크니컬 블로그입니다.<br>
 감사합니다.
 <br><br>
 <p align="center">Hi, I'm a student majoring in computer science and interested in NLP.<br>
