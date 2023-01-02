@@ -33,6 +33,8 @@ Thanks.</p>
 <br>
 <h2>Papers</h2>
 <ul class="paper-list">
+	<li>Bonggeun Choi, and Youngjoong Ko. <strong>Knowledge Graph Extension with a Pre-trained Language Model via Unified Learning Method</strong>. Knowledge-Based Systems, Elsevier Science, Vol. ?, ?, ? 2023. (SCIE, IF=8.139 , ISSN 0950-7051)
+	<li>Bonggeun Choi, Deasik Jang, and Youngjoong Ko. <strong>MEM-KGC: Masked Entity Model for Knowledge Graph Completion with Pre-trained Language Model</strong>. IEEE ACCESS, Vol. 9, pp.132025-132032, September 2021. (SCIE, IF=3.476, ISSN 2169-3536)
 	
 </ul>
 <br>
