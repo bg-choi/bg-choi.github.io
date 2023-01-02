@@ -1,7 +1,7 @@
 # main text of home
 full-name: Choi, Bongguen
-name: BG.Choi
-bio: MS Student at SKK Univ.
+name: B.Choi
+bio: Ph.D Student at SKK Univ.
 
 # twitter summary info
 description: A technical blog about NLP.
@@ -58,7 +58,7 @@ email: bonggeun.choi818@gmail.com
 authors:
     bg.choi:
         name: Choi, Bonggeun
-        bio: MS Student at SKK Univ.
+        bio: Ph.D Student at SKK Univ.
         external-image: false
         picture: assets/images/profile.png
 
