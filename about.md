@@ -12,7 +12,7 @@ layout: page
 감사합니다.
 <br><br>
 <p align="center">Hi, I'm a Ph.D student majoring in natural language processing.<br>
-This is a technical blog for personal interests.<br>
+This is a technical blog for personal interest.<br>
 Thanks.</p>
 <br><br>
 
