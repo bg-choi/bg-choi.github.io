@@ -27,7 +27,7 @@ Thanks.</p>
 <ul class="careers">
 	<li>2022.09 ~ : Ph.D at SKK Univ.</li>
 	<li>2020.03 ~ 2022.08: M.S. at SKK Univ.</li>
-	<li>2020.01 ~ : NLP lab. at SKK Univ.</li>
+	<li>2020.01 ~ : NLP Lab. at SKK Univ.</li>
     	<li>2013.03 ~ 2020.02: B.S. at SKK Univ.</li>
 </ul>
 <br>
