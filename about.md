@@ -20,7 +20,7 @@ Thanks.</p>
 <ul class="interest-list">
 	<li>Natural Language Processing</li>
 	<li>Information Retrieval</li>
-	<li>Graph Neural Network</li>
+	<li>Open-domain QA</li>
 </ul>
 <br>
 <h2>Careers</h2>
