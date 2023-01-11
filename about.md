@@ -14,7 +14,7 @@ layout: page
 <p align="center">Hi, I'm a Ph.D student majoring in natural language processing.<br>
 This is a technical blog for personal interest.<br>
 Thanks.</p>
-<br><br>
+<br>
 <h3 align="center">Contact</h3>
 <p align="center">
 경기도 수원시 장안구 서부로 2066<br>
