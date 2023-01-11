@@ -20,7 +20,7 @@ Thanks.</p>
 경기도 수원시 장안구 서부로 2066<br>
 성균관대학교 자연과학캠퍼스 N센터 401호<br>
 bonggeun.choi818@gmail.com
-<br><br>
+<br><br><br>
 <h2>Interests</h2>
 <ul class="interest-list">
 	<li>Natural Language Processing</li>
