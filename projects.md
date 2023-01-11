@@ -6,11 +6,11 @@ layout: page
 
 # Projects
 
-<h2>International Journal Papers</h2>
+<h2>Current Projects</h2>
 <ul class="current-project-list">
 </ul>
 
 <br>
-<h2>International Conference Papers</h2>
+<h2>Past Projects</h2>
 <ul class="past-project-list">
 </ul>
