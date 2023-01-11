@@ -12,8 +12,12 @@
             <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.full-name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
-        {% elif site.about %}
+        {% elif site.publications %}
             <a class="link" href="{{ site.url }}/publications">
+                <img class="selfie" alt="{{ site.full-name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </a>
+        {% elif site.projects %}
+            <a class="link" href="{{ site.url }}/projects">
                 <img class="selfie" alt="{{ site.full-name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
         {% else %}
