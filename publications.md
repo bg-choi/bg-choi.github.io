@@ -21,7 +21,7 @@ layout: page
 <ul class="domestic-journal-paper-list">
 </ul>
 <br>
-<h2>Domestic Journal Papers</h2>
+<h2>Domestic Conference Papers</h2>
 <ul class="domestic-conference-paper-list">
 	<li>Jinyoung Kim, Bonggeun Choi, and Youngjoong Ko. <strong>Pretrained Language Model과 Graph Attention Network를 이용한 화행분석</strong>. <em>Proceedings of Korea Software Congress 2022 (KSC 2022)</em>, pp.383-385, December 2022.</li>
 	<li>Hyunmook Cha, Bonggeun Choi, and Youngjoong Ko. <strong>BERT 기반 어절 임베딩 구축과 이를 활용한 한국어 의미역 결정</strong>. <em>Proceedings of Korea Software Congress 2022 (KSC 2022)</em>, pp.1430-1432, December 2022.</li>
