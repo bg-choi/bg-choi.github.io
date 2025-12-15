@@ -14,6 +14,7 @@ layout: page
 <br>
 <h2>International Conference Papers</h2>
 <ul class="international-conference-paper-list">
+	<li>Bonggeun Choi and Youngjoong Ko. <strong>RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings</strong>. <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024, Industry Track)</em>, in Miami, Florida, USA, November 2024. (BK Plus Computer Science IF=3)</li>
 </ul>
 <br>
 <h2>Domestic Journal Papers</h2>
