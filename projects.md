@@ -18,5 +18,5 @@ layout: page
   <li>2023.03~2024.03. SKKU NLP Lab. <strong>QA 생성을 활용한 지스니펫 커버리지 확장 연구</strong>. <em>Naver</em>.</li>
   <li>2021.03~2023.01. SKKU NLP Lab. <strong>휴먼 지식증강 서비스를 위한 지능진화형 WiseQA 플랫폼 기술개발</strong>. <em>정보통신기획평가원 (IITP)</em>.</li>
   <li>2020.05~2020.11. SKKU NLP Lab. <strong>딥러닝 Triple 임베딩을 이용한 TripleQA 기술개발</strong>. <em>한국전자통신연구원 (ETRI)</em>.</li>
-  <li>2020.04~2023.12. SKKU NLP Lab. <strong>뉴럴-심볼릭 모델의 지식 학습 및 추론 기술 개발</strong>. <em>한국전자통신연구원 (ETRI)</em>.</li>
+  <li>2020.04~2023.12. SKKU NLP Lab. <strong>뉴럴-심볼릭 모델의 지식 학습 및 추론 기술 개발</strong>. <em>정보통신기획평가원 (IITP)</em>.</li>
 </ul>
