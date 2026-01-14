@@ -25,7 +25,8 @@ bonggeun.choi818@gmail.com
 <ul class="interest-list">
 	<li>Natural Language Processing</li>
 	<li>Information Retrieval</li>
-	<li>Open-domain QA</li>
+	<li>Retrieval-augmented Generation (RAG)</li>
+	<li>Knowledge Graph</li>
 </ul>
 <br>
 <h2>Careers</h2>
