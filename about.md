@@ -26,6 +26,7 @@ bonggeun.choi818@gmail.com
 	<li>Natural Language Processing</li>
 	<li>Information Retrieval</li>
 	<li>Retrieval-augmented Generation (RAG)</li>
+	<li>Representation Learning</li>
 	<li>Knowledge Graph</li>
 </ul>
 <br>
