@@ -17,9 +17,7 @@ Especially, my research lies on improving effectiveness and efficiency in those 
 
 <h2>Introduce</h2>
 <p align="left">
-	I'm a Ph.D. candidate in <a href="https://nlplab-skku.github.io/">Natural Language Processing (NLP) Lab</a> at Sungkyunkwan University (SKKU).<br>
-	My research focuses on <strong>representation learning</strong>, particularly for <strong>Retrieval-Augmented Generation (RAG)</strong> and <strong>Information Retrieval (IR)</strong>.<br>
-	I'm especially interested in improving both the <strong>effectiveness</strong> and <strong>efficiency</strong> of these systems through advanced dense representations.</p>
+	I'm a Ph.D. candidate in <a href="https://nlplab-skku.github.io/">Natural Language Processing (NLP) Lab</a> at Sungkyunkwan University (SKKU). My research focuses on <strong>representation learning</strong>, particularly for <strong>Retrieval-Augmented Generation (RAG)</strong> and <strong>Information Retrieval (IR)</strong>. I'm especially interested in improving both the <strong>effectiveness</strong> and <strong>efficiency</strong> of these systems through advanced dense representations.</p>
 <br>
 
 <!-- <h3 align="center">Contact</h3>
