@@ -11,13 +11,13 @@ layout: page
 저는 정보검색과 검색증강 생성 기술에 관심이 있으며,<br>
 특히 밀집 벡터를 활용한 효과성 및 효율성 향상 방법을 연구하고 있습니다.
 <br><br>
-<p align="center">Hi, I'm a Ph.D candidate majoring in natural language processing in SKKU.<br>
+<p align="center">Hi, I'm a Ph.D candidate majoring in natural language processing Lab in SKKU.<br>
 I'm interested in representation learning of which applying tasks Retrieval-augmented Generation (RAG) as well as Information Retrieval (IR).<br>
 Especially, my research lies on improving effectiveness and efficiency in those fields with dense representations.</p> -->
 
 <h2>Introduce</h2>
 <p align="left">
-	I'm a Ph.D. candidate in Natural Language Processing at Sungkyunkwan University (SKKU).<br>
+	I'm a Ph.D. candidate in <a href="https://nlplab-skku.github.io/">Natural Language Processing (NLP) Lab</a> at Sungkyunkwan University (SKKU).<br>
 	My research focuses on <strong>representation learning</strong>, particularly for <strong>Retrieval-Augmented Generation (RAG)</strong> and <strong>Information Retrieval (IR)</strong>.<br>
 	I'm especially interested in improving both the <strong>effectiveness</strong> and <strong>efficiency</strong> of these systems through advanced dense representations.</p>
 <br>
