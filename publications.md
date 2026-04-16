@@ -22,7 +22,6 @@ layout: page
 <ul class="international-conference-paper-list">
 	<li>
 		Bonggeun Choi, Keunha Kim, Junho Han, and Youngjoong Ko. <strong>ConvX: A Lightweight Converter to Bridge Indexed Dense Representations and Large Language Models for Retrieval-Augmented Generation</strong>. <em>Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2026, findings)</em>, in San Diego, California, USA, July 2-7 2026. (BK Plus Computer Science IF=4)
-		[<a href="https://aclanthology.org/2024.emnlp-industry.108.pdf">paper</a>]
 	</li>
 	<li>
 		Bonggeun Choi, Jungjae Park, Yoonsung Kim, Jae-Hyun Park, and Youngjoong Ko. <strong>RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings</strong>. <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024, Industry Track)</em>, in Miami, Florida, USA, November 2024. (BK Plus Computer Science IF=3)
