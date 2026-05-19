@@ -17,7 +17,7 @@ Especially, my research lies on improving effectiveness and efficiency in those 
 
 <h2>Introduce</h2>
 <p align="left">
-	I'm a NLP researcher working for <a href="https://nlplab-skku.github.io/">Natural Language Processing (NLP) Lab</a> at Sungkyunkwan University (SKKU). I received my Ph.D degree from Sungkyunkwan University in February 2026. My research focuses on <strong>representation learning</strong>, particularly for <strong>Retrieval-Augmented Generation (RAG)</strong> and <strong>Information Retrieval (IR)</strong>. I'm especially interested in improving both the <strong>effectiveness</strong> and <strong>efficiency</strong> of these systems through advanced dense representations.</p>
+	I'm a research scientist (NLP) working for Boeing Korea (BKETC). I received my Ph.D. degree from Sungkyunkwan University in February 2026. My research focuses on <strong>representation learning</strong>, particularly for <strong>Retrieval-Augmented Generation (RAG)</strong> and <strong>Information Retrieval (IR)</strong>. I'm especially interested in improving both the <strong>effectiveness</strong> and <strong>efficiency</strong> of these systems through advanced dense representations.</p>
 <br>
 
 <!-- <h3 align="center">Contact</h3>
@@ -27,7 +27,7 @@ Especially, my research lies on improving effectiveness and efficiency in those 
 bonggeun.choi818@gmail.com
 <br><br><br> -->
 
-<h2>Interests</h2>
+<h2>Research Interests</h2>
 <ul class="interest-list">
 	<li>Natural Language Processing</li>
 	<li>Retrieval-augmented Generation (RAG)</li>
@@ -39,7 +39,13 @@ bonggeun.choi818@gmail.com
 
 <h2>Careers</h2>
 <ul class="careers">
-	<li>2020.01 ~ current : NLP Lab. at SKKU</li>
+	<li>2026.05 ~ current : Boeing Korea (BKETC)</li>
+	<li>2020.01 ~ 2026.05 : NLP Lab. at SKKU</li>
+</ul>
+<br>
+
+<h2>Educations</h2>
+<ul class="edu">
 	<li>2022.09 ~ 2026.02: <strong>Ph.D</strong> in Artificial Intelligence at SKKU</li>
 	<li>2020.03 ~ 2022.08: <strong>M.S.</strong> in Electrical and Computer Engineering at SKKU</li>
     <li>2013.03 ~ 2020.02: <strong>B.S.</strong> in Electrical and Computer Engineering at SKKU</li>
