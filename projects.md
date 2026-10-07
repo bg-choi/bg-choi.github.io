@@ -8,12 +8,13 @@ layout: page
 
 <h2>Current Projects</h2>
 <ul class="project-list">
-  <li>2025.07~2026.12. <em>정보통신기획평가원(IITP)</em>. <strong>복잡한 인과 관계 이해를 위한 옴니 데이터 기반 귀추적 추론 프레임워크</strong>.</li>
-  <li>2022.04~2026.12. <em>정보통신기획평가원(IITP)</em>. <strong>전문지식 대상 판단결과의 이유/근거를 설명가능한 전문가 의사결정 지원 인공지능 기술개발</strong>.</li>
+  <li>2026.05~current. <em>Boeing AI</em>. <strong>NDA</li>
 </ul>
 
 <h2>Past Projects</h2>
 <ul class="project-list">
+  <li>2025.07~2026.04. <em>정보통신기획평가원(IITP)</em>. <strong>복잡한 인과 관계 이해를 위한 옴니 데이터 기반 귀추적 추론 프레임워크</strong>.</li>
+  <li>2022.04~2026.04. <em>정보통신기획평가원(IITP)</em>. <strong>전문지식 대상 판단결과의 이유/근거를 설명가능한 전문가 의사결정 지원 인공지능 기술개발</strong>.</li>
   <li>2023.07~2023.12. <em>NCSOFT</em>. <strong>사용자 중심 질의 재작성을 위한 사용자 피드백 유도형 질문 생성 연구</strong>.</li>
   <li>2023.03~2024.03. <em>Naver</em>. <strong>QA 생성을 활용한 지스니펫 커버리지 확장 연구</strong>.</li>
   <li>2021.03~2023.01. <em>정보통신기획평가원(IITP)</em>. <strong>휴먼 지식증강 서비스를 위한 지능진화형 WiseQA 플랫폼 기술개발</strong>.</li>
