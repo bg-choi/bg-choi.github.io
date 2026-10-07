@@ -16,8 +16,11 @@ I'm interested in representation learning of which applying tasks Retrieval-augm
 Especially, my research lies on improving effectiveness and efficiency in those fields with dense representations.</p> -->
 
 <h2>Introduce</h2>
-<p align="left">
-	I'm a research scientist (NLP) working for Boeing Korea (BKETC). I received my Ph.D. degree from Sungkyunkwan University in February 2026. My research focuses on <strong>representation learning</strong>, particularly for <strong>Retrieval-Augmented Generation (RAG)</strong> and <strong>Information Retrieval (IR)</strong>. I'm especially interested in improving both the <strong>effectiveness</strong> and <strong>efficiency</strong> of these systems through advanced dense representations.</p>
+<p>
+	I’m an AI researcher at Boeing Korea (BKETC).  I received my Ph.D degree from Sungkyunkwan University in February 2026, where I was a member of the <a href="https://nlplab-skku.github.io/">Natural Language Processing Lab</a> under the supervision of Prof. <a href="https://nlp.skku.edu/">Youngjoong Ko</a>
+<br><br>
+My research focuses on <strong>dense vector representations for efficient information processing and communication</strong>, particularly on representing complex or long-form information in compact vector spaces. I am especially interested in <strong>enabling efficient and effective communication between AI agents and tools through optimal representations</strong>, with applications to Agentic Search and Multi-agent Systems.
+</p>
 <br>
 
 <!-- <h3 align="center">Contact</h3>
@@ -30,10 +33,9 @@ bonggeun.choi818@gmail.com
 <h2>Research Interests</h2>
 <ul class="interest-list">
 	<li>Natural Language Processing</li>
-	<li>Retrieval-augmented Generation (RAG)</li>
 	<li>Representation Learning</li>
-	<li>Information Retrieval</li>
-	<li>Knowledge Graph</li>
+	<li>Agentic Search</li>
+	<li>Multi-agent System</li>
 </ul>
 <br>
 
