@@ -8,9 +8,9 @@ layout: page
 
 <h2>Current Projects</h2>
 <ul class="project-list">
-  <li>2026.05~current. <em>Boeing AI</em>. <strong>NDA</li>
+  <li>2026.05~current. <em>Boeing AI</em>. <strong>NDA</strong></li>
 </ul>
-
+<br>
 <h2>Past Projects</h2>
 <ul class="project-list">
   <li>2025.07~2026.04. <em>정보통신기획평가원(IITP)</em>. <strong>복잡한 인과 관계 이해를 위한 옴니 데이터 기반 귀추적 추론 프레임워크</strong>.</li>
